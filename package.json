@@ -31,5 +31,10 @@
   "bugs": {
     "url": "https://github.com/metafizzy/packery/issues"
   },
-  "homepage": "http://packery.metafizzy.co"
+  "homepage": "http://packery.metafizzy.co",
+  "dependencies": {
+    "desandro-classie": "^1.0.1",
+    "get-size": "^1.1.8",
+    "outlayer": "git://github.com/braznaavtrav/outlayer"
+  }
 }
