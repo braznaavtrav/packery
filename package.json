@@ -34,6 +34,7 @@
   "homepage": "http://packery.metafizzy.co",
   "dependencies": {
     "desandro-classie": "^1.0.1",
+    "desandro-get-style-property": "^1.0.4",
     "get-size": "^1.1.8",
     "outlayer": "git://github.com/braznaavtrav/outlayer"
   }
